@@ -1,0 +1,11 @@
+{
+  "name": "developer-challenge-portfolio",
+  "version": "1.0.0",
+  "description": "Perfect Portoflio Template to start. Watch my YouTube video to see how to run it. Video how to use it: https://youtu.be/ddLuZXs8Uyw Video how to deploy it: https://youtu.be/E1dqffpUlMA ## Credits Template was created by Tenzin Phuljung and edited by Jakob Wolitzki.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
